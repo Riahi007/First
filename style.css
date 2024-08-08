@@ -1,0 +1,35 @@
+.img1{
+    align-items: center;
+    padding-left: 20%;
+
+}
+h1{
+    color: red;
+    
+}
+h2{
+    color: red;
+}
+.div1{
+    margin-right: 50%;
+}
+.field{
+    margin-left: 60%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 15%;
+    margin-top: -25%;
+    border-color: blue;
+}
+nav {
+    text-align: center; 
+}
+
+.esp {
+    display: inline-block; 
+}
+hr {
+    border: 0;
+    border-top: 2px dashed #000; 
+    
+}
